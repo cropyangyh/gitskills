@@ -1,3 +1,7 @@
 12112313213
+<<<<<<< HEAD
 
 hello everyone£¡
+=======
+hello world£¡
+>>>>>>> feature1
